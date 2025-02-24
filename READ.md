@@ -25,5 +25,5 @@ A user-friendly and efficient eCommerce platform built with PHP, XAMPP, HTML, CS
         Search Bar: Helps users quickly find products by name, category, or price range.
         Filters: Allows sorting by price, ratings, or popularity for better product discovery.
 
-    🔑 Forgot Password Functionality (Upcoming Feature)
+    🔑 Forgot Password Functionality 
         Users can reset their passwords using email verification codes for better account security.
